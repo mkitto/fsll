@@ -19,17 +19,21 @@ Fallout Shelter pc 的本地化补丁。<br>
 ### 需要
 * 仅支持steam最新版(1.13.13) <br>
 * 仅支持windows x64 <br>
-* 如需还原英文需要提前备份以下目录data.unity3d <br>
+* 如需还原英文需要提前备份以下目录data.unity3d 或者 直接检查游戏完整性(不推荐) <br>
 ```
 Program Files (x86)\Steam\steamapps\common\Fallout Shelter\FalloutShelter_Data\data.unity3d
 ```
 * 下载release包 <br>
 ### 汉化
-1. 置于data.unity3d所在目录 运行 <br>
-2. 一直确定安装即可 <br>
+1. 解压
+2. 置于游戏根目录 运行 <br>
+```
+Program Files (x86)\Steam\steamapps\common\Fallout Shelter
+```
+3. 一直next安装即可 <br>
 ### 还原
 1. 删除该目录下的 data.unity3d 及 data.unity3d.bak0000 <br>
-2. 把之前备份的data.unity3d 放于该目录即可 <br>
+2. 把之前备份的data.unity3d 放于该目录替换即可 <br>
 
 ## 计划
 参照 [其乐(原蒸汽cn)](https://keylol.com/t242557-1-1)老哥 的1.10beta汉化资源 快速移植 <br>

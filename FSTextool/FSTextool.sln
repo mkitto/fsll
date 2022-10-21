@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSTextool", "FSTextool\FSTextool.csproj", "{BAA69D0A-89DE-45EB-81AE-7510599320CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA69D0A-89DE-45EB-81AE-7510599320CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA69D0A-89DE-45EB-81AE-7510599320CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA69D0A-89DE-45EB-81AE-7510599320CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA69D0A-89DE-45EB-81AE-7510599320CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24044298-85F0-4112-AF95-E0F25C1C99E3}
+	EndGlobalSection
+EndGlobal

@@ -1,46 +1,41 @@
 # fsll
-Fallout Shelter pc 的本地化补丁。<br>
+Fallout Shelter pc 的汉化<br>
 
-[![](https://img.shields.io/badge/release-v0.1.0-98c6f4?style=flat.svg)](https://github.com/mkitto/fsll/releases/tag/v0.1.0)
-![](https://img.shields.io/github/last-commit/mkitto/fsll?style=flat)
+[![](https://img.shields.io/badge/进度-79%25-98c6f4?style=flat.svg)](https://github.com/mkitto/fsll/releases/tag/v0.79_b2)
 
-简中 | [繁中](https://github.com/mkitto/fsll/blob/main/README_tc.md) | [JP](https://github.com/mkitto/fsll/blob/main/README_ja-JP.md) 
+校对 [见](https://github.com/mkitto/fsll/tree/development/resources/sc)
 
-注意：始终欢迎贡献。在贡献之前请先阅读 [贡献](https://github.com/mkitto/fsll/blob/development/CONTRIBUTING.md)。
+## 安装指南
 
-## 当前进度
-* 字库 通过 <br>
-* 主要文本测试 通过 <br>
-* 汉化量≈0.1% 完成 <br>
-* beta预览补丁 完成 <br>
-
-## 快速安装指南
-
-### 需要
+### 总览
 * 仅支持steam最新版(1.13.13) <br>
-* 仅支持windows x64 <br>
-* 如需还原英文需要提前备份以下目录data.unity3d <br>
+* 字库 主要文本通过测试 <br>
+* 汉化进度=79%(8101/10148)【其中78%(7928/10148) =1.10alfa(由Vincent_CL提供),v0.78b2无修改,之后版本的该部分修改见校对】 <br>
+
+
+### 汉化步骤
+1.下载 [release包](https://github.com/mkitto/fsll/releases) <br> 
+2.解压 置于游戏根目录 运行 或 运行 直接选择游戏根目录 一直next安装即可<br>
+
+### 还原英文步骤
+1.删除2级目录下的 data.unity3d 并将 data.unity3d.bak0000 重命名为data.unity3d <br>
 ```
-Program Files (x86)\Steam\steamapps\common\Fallout Shelter\FalloutShelter_Data\data.unity3d
+Fallout Shelter\FalloutShelter_Data\data.unity3d
 ```
-* 下载release包 <br>
-### 汉化
-1. 置于data.unity3d所在目录 运行 <br>
-2. 一直确定安装即可 <br>
-### 还原
-1. 删除该目录下的 data.unity3d 及 data.unity3d.bak0000 <br>
-2. 把之前备份的data.unity3d 放于该目录即可 <br>
 
-## 计划
-参照 [其乐(原蒸汽cn)](https://keylol.com/t242557-1-1)老哥 的1.10beta汉化资源 快速移植 <br>
-移植后通过社区继续汉化剩余部分及校错 <br>
+## 其它问题
+drm解不了 搁置 
 
-## 存在问题
-解drm不可(不依赖steam玩): 因dnspy无法编译 事件(event) 暂且搁置 推测应该是新增的(较1.10)
-
-## 相关链接
-老哥 [其乐帖](https://keylol.com/t242557-1-1) <br>
-老哥 [3dm贴](https://bbs.3dmgame.com/forum.php?mod=viewthread&tid=5507287) <br>
-老哥 [steam帖](https://steamcommunity.com/id/vincl/recommended/588430/) <br>
-
+## 使用的所有工具
+- ttf,otf字体提取【[UnityEX v1.10.0.4](https://forum.zoneofgames.ru/topic/36240-unityex/)】
+- 通用字体查看【[UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/tree/master/UnityL10nTool)】
+- 查看,解包 【[AssetStudio](https://github.com/Perfare/AssetStudio)】
+- 查看,修改,补丁【[UABE 2.2 stable d](https://github.com/SeriousCache/UABE)】
+- 【NGUI 3.11.2】
+- NGUI前置【[BMFont 1.14a(2021)](http://www.angelcode.com/)】
+- 合并文本 从1.10 到1.13.13 【Beyond Compare 4】
+- 1.10汉化文本 由Vincent_CL提供 [其乐](https://keylol.com/t242557-1-1),[3dm](https://bbs.3dmgame.com/forum.php?mod=viewthread&tid=5507287),[steam](https://steamcommunity.com/id/vincl/recommended/588430/)
+- 类瘦长黑体 [喜脉体](http://www.fontsdown.com/thread-168.html)(Unlicense 许可,但认为是MIT 许可)
+- ttf,otf字体合并 【[Warcraft Font Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger)】
+- 修复UABE 2.2 stable d转储时导致的转义字符遗留【falloutshelter_texttool[<sub>1</sub>](https://zenhax.com/viewtopic.php?f=12&t=2770),[<sub>2</sub>](https://zenhax.com/viewtopic.php?t=645)】或【[FSTextool](https://github.com/mkitto/fsll/tree/development/FSTextool)】
 

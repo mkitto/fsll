@@ -1,8 +1,7 @@
 # fsll
-Fallout Shelter pc 的本地化补丁。<br>
+Fallout Shelter pc 的汉化<br>
 
 [![](https://img.shields.io/badge/release-v0.78b2-98c6f4?style=flat.svg)](https://github.com/mkitto/fsll/releases/tag/v0.78_b2)
-![](https://img.shields.io/github/last-commit/mkitto/fsll?style=flat)
 
 校对 [见](https://github.com/mkitto/fsll/tree/development/resources/sc)
 

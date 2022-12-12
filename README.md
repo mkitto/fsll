@@ -14,10 +14,12 @@ Fallout Shelter pc 的汉化<br>
 * 汉化进度=79%(8101/10148)【其中78%(7928/10148) =1.10alfa(由Vincent_CL提供),v0.78b2无修改,之后版本的该部分修改见校对】 <br>
 
 
-### 步骤
+### 汉化步骤
 1.下载 [release包](https://github.com/mkitto/fsll/releases) <br> 
 2.解压 置于游戏根目录 运行 或 运行 直接选择游戏根目录 一直next安装即可<br>
-3.(可选,还原英文) 删除2级目录下的 data.unity3d 并将 data.unity3d.bak0000 重命名为data.unity3d <br>
+
+### 还原英文步骤
+1.删除2级目录下的 data.unity3d 并将 data.unity3d.bak0000 重命名为data.unity3d <br>
 ```
 Fallout Shelter\FalloutShelter_Data\data.unity3d
 ```

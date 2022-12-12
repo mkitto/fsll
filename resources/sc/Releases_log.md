@@ -1,11 +1,11 @@
-v0.79 b2
+## v0.79 b2
 
 特性
 -
 * 汉化量=79%(80101/10148)
 * 汉化了一些任务 [见](https://github.com/mkitto/fsll/tree/development/resources/sc)
 
-v0.78 b2
+## v0.78 b2
 
 特性
 -

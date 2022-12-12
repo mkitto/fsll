@@ -10,7 +10,6 @@ Fallout Shelter pc 的汉化<br>
 ### 总览
 * 仅支持steam最新版(1.13.13) <br>
 * 字库 主要文本通过测试 <br>
-* 转义字符遗留 如 n n- 暂时无法解决<br>
 * 汉化进度=79%(8101/10148)【其中78%(7928/10148) =1.10alfa(由Vincent_CL提供),v0.78b2无修改,之后版本的该部分修改见校对】 <br>
 
 
@@ -38,5 +37,5 @@ drm解不了 搁置
 - 1.10汉化文本 由Vincent_CL提供 [其乐](https://keylol.com/t242557-1-1),[3dm](https://bbs.3dmgame.com/forum.php?mod=viewthread&tid=5507287),[steam](https://steamcommunity.com/id/vincl/recommended/588430/)
 - 类瘦长黑体 [喜脉体](http://www.fontsdown.com/thread-168.html)(Unlicense 许可,但认为是MIT 许可)
 - ttf,otf字体合并 【[Warcraft Font Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger)】
-
+- 修复UABE 2.2 stable d转储时导致的转义字符遗留【falloutshelter_texttool[<sub>1</sub>](https://zenhax.com/viewtopic.php?f=12&t=2770),[<sub>2</sub>](https://zenhax.com/viewtopic.php?t=645)】或【[FSTextool](https://github.com/mkitto/fsll/tree/development/FSTextool)】
 

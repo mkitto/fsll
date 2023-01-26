@@ -14,7 +14,7 @@ Fallout Shelter pc 的汉化<br>
 
 
 ### 汉化步骤
-1.下载 [release包](https://github.com/mkitto/fsll/releases) <br> 
+1.下载 [release](https://github.com/mkitto/fsll/releases)( installer.7z的压缩包 )<br> 
 2.解压 置于游戏根目录 运行 或 运行 直接选择游戏根目录 一直next安装即可<br>
 
 ### 还原英文步骤

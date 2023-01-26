@@ -12,7 +12,7 @@
 特性
 -
 * 汉化量=79%(8101/10148)
-* 汉化了一些任务 [见](https://github.com/mkitto/fsll/tree/development/resources/sc)
+* 汉化了一些任务 [见](https://github.com/mkitto/fsll/blob/development/resources/sc/1.13.13v0.79b2%E8%BE%83v0.78b2%E4%BB%A5%E6%9D%A5%E7%BF%BB%E8%AF%91%E7%9A%84%E4%BB%BB%E5%8A%A1.md)
 
 ## v0.78 b2
 

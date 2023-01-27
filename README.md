@@ -18,10 +18,7 @@ Fallout Shelter pc 的汉化<br>
 2.解压 置于游戏根目录 运行 或 运行 直接选择游戏根目录 一直next安装即可<br>
 
 ### 还原英文步骤
-1.删除2级目录下的 data.unity3d 并将 data.unity3d.bak0000 重命名为data.unity3d <br>
-```
-Fallout Shelter\FalloutShelter_Data\data.unity3d
-```
+1.删除2级目录`Fallout Shelter\FalloutShelter_Data\data.unity3d`下的 data.unity3d 并将 data.unity3d.bak0000 重命名为data.unity3d <br>
 
 ## 其它问题
 drm解不了 搁置 

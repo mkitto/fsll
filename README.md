@@ -1,7 +1,7 @@
 # fsll
 Fallout Shelter pc 的汉化<br>
 
-[![](https://img.shields.io/badge/进度-79%25-98c6f4?style=flat.svg)](https://github.com/mkitto/fsll/releases/tag/v0.79_b3)
+[![](https://img.shields.io/badge/进度-79%25-98c6f4?style=flat-square)](https://github.com/mkitto/fsll/releases/tag/v0.79_b3) [![](https://img.shields.io/github/downloads/mkitto/fsll/total?label=github总下载量&style=flat-square)](https://github.com/mkitto/fsll/releases)
 
 校对 详情 [见](https://github.com/mkitto/fsll/tree/development/resources/sc)
 

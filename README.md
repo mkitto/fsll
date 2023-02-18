@@ -24,6 +24,7 @@ Fallout Shelter pc 的汉化<br>
 drm解不了 搁置 
 
 ## 使用的所有工具
+- 文本编辑器【Notepad++】
 - ttf,otf字体提取【[UnityEX v1.10.0.4](https://forum.zoneofgames.ru/topic/36240-unityex/)】
 - 通用字体查看【[UnityL10nTool](https://github.com/dmc31a42/UnityL10nTool/tree/master/UnityL10nTool)】
 - 查看,解包 【[AssetStudio](https://github.com/Perfare/AssetStudio)】

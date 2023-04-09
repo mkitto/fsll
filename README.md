@@ -31,6 +31,7 @@ drm解不了 搁置
 - 查看,修改,补丁【[UABE 2.2 stable d](https://github.com/SeriousCache/UABE)】
 - 【NGUI 3.11.2】
 - NGUI前置【[BMFont 1.14a(2021)](http://www.angelcode.com/)】
+- NGUI对应环境【Unity 2017.4.8f1 (64-bit)】
 - 合并文本 从1.10 到1.13.13 【Beyond Compare 4】
 - 1.10汉化文本 由Vincent_CL提供 [其乐](https://keylol.com/t242557-1-1),[3dm](https://bbs.3dmgame.com/forum.php?mod=viewthread&tid=5507287),[steam](https://steamcommunity.com/id/vincl/recommended/588430/)
 - 类瘦长黑体 [喜脉体](http://www.fontsdown.com/thread-168.html)(Unlicense 许可,但认为是MIT 许可)

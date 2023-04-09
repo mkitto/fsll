@@ -37,3 +37,5 @@ drm解不了 搁置
 - ttf,otf字体合并 【[Warcraft Font Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger)】
 - 修复UABE 2.2 stable d转储时导致的转义字符遗留【falloutshelter_texttool[<sub>1</sub>](https://zenhax.com/viewtopic.php?f=12&t=2770),[<sub>2</sub>](https://zenhax.com/viewtopic.php?t=645)】或【[FSTextool](https://github.com/mkitto/fsll/tree/development/FSTextool)】
 
+## 参考教程
+https://github.com/mskgroup/Unity-Game-localization-tutorial-and-toolkit

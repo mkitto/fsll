@@ -13,7 +13,6 @@ Fallout Shelter pc 的汉化<br>
 * 汉化进度=79%(8101/10148)【其中78%(7928/10148) =1.10alfa(由Vincent_CL提供),v0.78b2无修改,之后版本的该部分修改见校对】 <br>
 * 不能使用补丁的 win7 ( [steam 支持 win7 到 2024 年 1 月 1 日](https://help.steampowered.com/zh-cn/faqs/view/4784-4F2B-1321-800A) ) 及其他用户直接替换 data.unity3d (因其下载体积相对较大故不推荐首选) <br>
 
-
 ### 汉化步骤
 1.下载 [release](https://github.com/mkitto/fsll/releases)( installer.7z的压缩包 )<br> 
 2.解压 置于游戏根目录 运行 或 运行 直接选择游戏根目录 一直next安装即可<br>

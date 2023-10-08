@@ -11,6 +11,7 @@ Fallout Shelter pc 的汉化<br>
 * 仅支持steam最新版(1.13.13) <br>
 * 字库 主要文本通过测试 <br>
 * 汉化进度=79%(8101/10148)【其中78%(7928/10148) =1.10alfa(由Vincent_CL提供),v0.78b2无修改,之后版本的该部分修改见校对】 <br>
+* 不能使用补丁的 win7 ( [steam 支持 win7 到 2024 年 1 月 1 日](https://help.steampowered.com/zh-cn/faqs/view/4784-4F2B-1321-800A) ) 及其他用户直接替换 data.unity3d (因其下载体积相对较大故不推荐首选) <br>
 
 
 ### 汉化步骤
